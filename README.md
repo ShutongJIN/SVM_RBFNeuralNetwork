@@ -1,2 +1,2 @@
 # SVM_RBFNeuralNetwork
-Assignment for NTU EE7207
+My assignment for NTU EE7207
